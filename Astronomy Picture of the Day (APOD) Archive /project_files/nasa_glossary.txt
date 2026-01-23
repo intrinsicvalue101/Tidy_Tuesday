@@ -1,0 +1,370 @@
+absolute zero
+absorption
+absorption line
+accretion
+accretion disk
+active galactic nucleus/nuclei (AGN)
+afterglow
+ammonia (ice)
+amplitude
+angstrom
+angular momentum
+annihilation
+anticoincidence detector
+antimatter
+apoapsis
+arcminute
+arcsecond
+asteroid
+astronomical unit (au AU)
+astronomy
+astrophysics
+atmosphere
+Atmospheric Cherenkov Telescope (ACT)
+atom
+atomic nucleus
+aurora
+Balmer series
+bar
+baryon
+baryonic acoustic oscillations (BAO)
+basalt
+big bang
+binary stars
+biosignature
+blackbody radiation
+blackbody spectrum
+blackbody temperature
+black dwarf
+black hole
+blazar
+blue dwarf star
+blue supergiant star
+blueshift
+bolometric luminosity
+Boltzmann constant
+bremsstrahlung
+brown dwarf
+bulge, central (astronomical)
+calibration
+calorimeter
+Canadian Space Agency (CSA)
+carbon dioxide
+cataclysmic variable
+centaurs
+Cepheid variable
+Chandrasekhar limit
+chemical evolution
+circumstellar disk/protoplanetary disk
+climate
+cluster galaxies
+collecting area
+comet
+composition
+Compton scattering
+constellation
+corona (coronae)
+coronagraph
+cosmic dust
+cosmic microwave background (CMB)
+cosmic rays
+cosmochemistry
+cosmological constant
+cosmological distance
+cosmological principle
+cosmological redshift
+cosmology
+dark energy
+dark matter
+de Broglie wavelength
+debris disk
+declination
+degree
+density
+dewar
+diffraction grating
+diffuse galactic emission
+digital image
+disk
+dispersion
+Doppler effect
+dwarf galaxy
+dwarf planet
+Earth
+eccentricity (e)
+eclipse
+eclipse depth
+ecliptic
+Eddington limit
+ejecta
+electromagnetic radiation (waves)
+electromagnetic spectrum
+electron
+electron volt (eV)
+element
+elementary particles
+ellipse
+elliptical galaxy
+emission
+emission line spectrum
+emitted light
+era reionization (epoch reionization, EOR)
+erg/sec
+European Space Agency (ESA)
+event horizon
+excited state
+exoplanet
+exposure
+extragalactic
+extraterrestrial
+far infrared light
+Fermi acceleration
+field view (FOV)
+filter
+fission
+fluorescence
+flux
+frequency
+fusion
+galactic center (galaxy core, milky way)
+galactic halo
+galaxy
+galaxy evolution
+galaxy supercluster
+gamma ray
+gamma ray burst (GRB)
+gas
+gas giant (Jovian planet)
+general relativity
+giant molecular cloud (GMC)
+giant star
+globular cluster
+granite
+gravitational clustering
+gravitational collapse
+gravitational lensing
+gravitationally bound
+gravitational waves
+gravity
+habitable zone, circumstellar
+Hawking radiation
+helium
+hertz (Hz)
+hot Jupiter
+Hubble constant (Ho)
+Hubble's law
+hydrogen
+ice giant
+implosion
+inclination
+infrared
+infrared telescope
+interacting galaxies (colliding galaxies)
+intermediate mass black holes
+interstellar dust
+interstellar medium
+invisible radiation
+ion
+ionization
+ionosphere
+irregular galaxy
+isolated planetary mass object
+Japan Aerospace Exploration Agency (JAXA)
+jets
+Kelvin temperature scale (K)
+Kepler's laws
+kilogram (kg)
+kilonova
+kinematics
+Kirchhoff's laws
+Kuiper Belt (object)
+Lagrange points
+laser
+light
+light curve
+light year
+limb
+local group
+luminosity
+Magellanic Clouds
+magnetar
+magnetic field
+magnetic pole
+magnetosphere
+magnetotail
+magnitude
+main asteroid belt
+main sequence star
+mass
+matter
+megaparsec (mpc)
+megaton
+meson
+metal
+meter (m)
+methane
+metric system
+micron (µm)
+microquasar
+microwave
+mid infrared light
+Milky Way (galaxy)
+molecule
+momentum
+moon
+muon
+nanometer (nm)
+NASA
+near infrared light
+nebula (pl. nebulae)
+neutrino
+neutron
+neutron star
+Newton's law universal gravitation
+Newton's laws motion
+noise
+nova (pl. novae)
+nuclear fusion
+nucleus (pl. nuclei)
+observable universe
+observatory
+occultation
+Oort cloud
+opacity
+open cluster
+orbit
+organic compound (molecule)
+pair production
+parallax
+parsec
+periapsis
+phase
+phase curve
+photodissociation
+photometry
+photon
+pion
+pi (π)
+Planck constant (h)
+Planck equation
+planet
+planetary nebula
+planetary ring (ringed planet, ring system)
+planetesimal
+plasma
+polarization
+positron
+proper motion
+proton
+protoplanet
+protostar
+pulsar
+quasar
+radial velocity
+radian
+radiation
+radiation belt
+radiation pressure
+radio
+Rayleigh scattering
+red dwarf star (m dwarf)
+red giant
+redshift
+reflected light
+refracted right
+reionization
+relativity principle
+resolution (spatial)
+resonance
+retrograde
+revolution
+right ascension
+Roche limit
+Roche lobe
+rotation
+satellite
+Schwarzschild black hole
+Schwarzschild radius
+scientific notation
+season
+second
+secondary eclipse
+semimajor axis
+sensitivity
+Seyfert galaxy
+shock wave
+singularity
+solar eclipse
+solar flares
+solar luminosity (LSun)
+solar mass (MSun)
+solar radius (RSun)
+solar system
+solar/stellar wind
+snow line (ice line, frost line)
+space time
+space weather
+special relativity
+spectral line
+spectrometer
+spectroscopic observations
+spectroscopy
+spectrum (pl. spectra)
+speed light
+spiral galaxy
+star
+starburst galaxy
+star cluster
+star formation
+Stefan Boltzmann constant
+Stefan Boltzmann law
+stellar classification
+stellar evolution (stellar life cycle)
+stellar mass black hole
+sunspots
+super Earth
+supermassive black hole (SMBH, SBH)
+supernova (supernovae)
+supernova remnant (SNR)
+synchronous rotation
+synchrotron radiation
+Systéme Internationale d'Unités (SI)
+telescope
+temperature
+terminator
+terrestrial planets
+thermal emission
+thermal emission spectrum
+tidal heating
+tidally locked (tidal locking)
+time dilation
+time series observation
+transit
+transit technique/transit method
+transiting planet
+transmission spectroscopy
+transmitted light
+trojan asteroid
+tauri star
+two dimensional spectrum
+ultramafic
+ultraviolet (UV)
+universal constant gravitation (G)
+universe
+vacuum
+variable star
+visible (optical) light
+volcanism
+wave
+wavelength
+wave particle duality
+weight
+white dwarf
+Wien's displacement law
+WIMP (weakly interacting massive particle)
+Wolf Rayet star
+Xray
+Xray binary
+year
+yellow dwarf star (F star, G star)
+zodiacal light
