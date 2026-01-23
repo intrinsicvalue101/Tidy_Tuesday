@@ -7,7 +7,7 @@ This section highlights selected visualizations created as part of the challenge
 
 ### 2026-01-22 - Top 15 Astronomical Observations
 <p align="center">
-  <img src="Astronomy Picture of the Day (APOD) Archive /output_visualized.png" width="650">
+  <img src="Astronomy Picture of the Day (APOD) Archive/output_visualized.png" width="650">
 </p>
 
 ## About the Challenge
