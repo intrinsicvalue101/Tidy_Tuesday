@@ -1,6 +1,6 @@
 # TidyTuesday
 
-This repository contains my contributions to the **[TidyTuesday](https://github.com/rfordatascience/tidytuesday)** weekly data analaysis challenge.
+This repository contains my contributions to the **[TidyTuesday](https://github.com/rfordatascience/tidytuesday)** weekly data analysis challenge.
 
 ## Visualization
 This section highlights selected visualizations created as part of the challenge.
